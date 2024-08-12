@@ -1,2 +1,1 @@
-# SnakeGame
-A classic Snake game implementation in Python. Navigate the snake to eat food, grow longer, and avoid hitting the walls or itself. This project demonstrates basic game development concepts using Python.
+![image](https://github.com/user-attachments/assets/437c25cb-a332-4a5a-8fce-c9074b9efd34)
